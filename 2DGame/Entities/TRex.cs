@@ -51,7 +51,6 @@ namespace RunnerGame.Entities
         private float _startPosY;
         private float _dropVelocity = 0;
 
-
         public TRexState State { get; private set; }
         public Vector2 Position { get; set; }
         public int DrawOrder { get; set; }
